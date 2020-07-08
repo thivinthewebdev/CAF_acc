@@ -1,3 +1,5 @@
+Notice : The code and Designs is not to be reused (either in full or partly ) anywhere without appropriate permission from the owner of the repositary.
+
 // Defined Functions
 
 // $(".carousel").on("touchstart", function(event){
